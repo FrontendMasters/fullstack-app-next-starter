@@ -6,13 +6,23 @@ In the lesson [Setup Next.js, ESLint, & TypeScript](https://frontendmasters.com/
 
 ### Instructions
 
+<<<<<<< HEAD
 First, clone this repository and install the dependencies:
 
+=======
+Clone this repository
+>>>>>>> c58118f5993b9623aa030164835ab00b859c6b73
 ```bash
 git clone https://github.com/FrontendMasters/fullstack-app-next-starter.git
+```
 
+Change Directories
+```bash
 cd full-stack-app-next-starter
+```
 
+Install Dependencies
+```bash
 npm install
 ```
 
