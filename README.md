@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repo is from an archived version of the course. Watch the latest version of the course on [frontendmasters.com](https://frontendmasters.com/courses/fullstack-app-next-v3/).
+
 This is a starter project for the [Build a Fullstack App from Scratch with Next.js course](https://frontendmasters.com/courses/fullstack-app-next/)
 
 ### Background
